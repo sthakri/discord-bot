@@ -190,4 +190,5 @@ export async function handleStandupButton(interaction: ButtonInteraction): Promi
     await interaction.reply({ content: '👍', ephemeral: true });
     return;
   }
-}
+}/ /   C o m m a n d   r e g i s t r a t i o n  
+ 
